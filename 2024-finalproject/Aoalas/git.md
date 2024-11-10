@@ -1,16 +1,10 @@
 # **引用图片**
 
-![1](./rebase.png)
+![1](./git.jpg)
 
-![2](./rebase-i.png)
+![2](./git2.jpg)
 
-![3](./revert.png)
-
-![4](./cherry-pick.png)
-
-<u>一些在learn git branching网站上的学习截图</u>
-
-
+若干git终端截图，之前传的图片不合适，至于commit，fetch upstream等等的git操作就不展出了（时间不允许了，我还有ros三四课作业和一堆可能作业没做...)
 
 # **第一题**
 
